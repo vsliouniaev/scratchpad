@@ -1,7 +1,7 @@
 
 function handleClick() {
   browser.tabs.create({
-    "url": "/src/index.html"
+    "url": "/docs/index.html"
   });
 }
 

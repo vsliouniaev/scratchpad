@@ -9,5 +9,5 @@
   "author": "",
   "license": "ISC",
   "dependencies": {},
-  "module-folder": "src/lib"
+  "module-folder": "docs/lib"
 }

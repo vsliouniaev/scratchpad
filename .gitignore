@@ -8,8 +8,8 @@
 *.so
 *.cache
 *.min.css
-src/css/site.min.css
-src/js/site.min.js
+docs/css/site.min.css
+docs/js/site.min.js
 
 # Packages #
 ############
@@ -37,6 +37,6 @@ src/js/site.min.js
 bin/
 obj/
 
-src/lib/*
-!src/lib/.keep
+docs/lib/*
+!docs/lib/.keep
 node_modules/
